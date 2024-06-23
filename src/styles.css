@@ -1,0 +1,36 @@
+/* styles.css */
+	.App {
+	font-family: Arial, sans-serif;
+	text-align: center;
+	max-width: 600px;
+	margin: 0 auto;
+	}
+
+ul {
+	list-style: none;
+	padding: 0;
+	}
+
+li {
+	display: flex;
+	justify-content: space-between;
+	padding: 10px;
+	border: 1px solid #ddd;
+	margin-bottom: 5px;
+	border-radius: 5px;
+	}
+
+button {
+	margin-left: 10px;
+	}
+
+input {
+	padding: 10px;
+	border-radius: 5px;
+	border: 1px solid #ddd;
+	margin-right: 10px;
+	}
+
+form {
+	margin-bottom: 20px;
+	}
